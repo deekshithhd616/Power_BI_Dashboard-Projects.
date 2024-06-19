@@ -12,6 +12,7 @@ Objective: Analyzed pizza sales data to identify trends, optimize sales strategi
 Dataset: Utilized a dataset containing pizza sales information, including order details, customer demographics, sales figures, and time periods.
 Tools & Technologies: SQL, Power BI, Microsoft Excel.
 Analysis Techniques: Data querying, data cleaning, data modeling, and data visualization.
+
 4. **Responsibilities & Contributions**
 
 Data Extraction and Querying: Used SQL to extract relevant data from the database, joining multiple tables to gather comprehensive insights.
@@ -26,6 +27,7 @@ Identified peak sales periods and top-selling pizza varieties.
 Analyzed customer demographics to better understand target segments.
 Provided actionable recommendations for inventory management, marketing strategies, and sales optimization.
 Enhanced data-driven decision-making with interactive Power BI dashboards.
+
 6. **Skills Demonstrated**
 SQL Querying
 Data Cleaning & Preparation
@@ -34,7 +36,9 @@ Data Visualization
 Power BI
 
 **Analytical Thinking & Problem-Solving**
+
 7. Link to Project 
+
 Link to Project: [Power_BI_Dashboard-Projects]
 
 Pizza Sales Analysis Report Using Power BI and SQL
