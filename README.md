@@ -41,7 +41,7 @@ Power BI
 
 Link to Project: [Power_BI_Dashboard-Projects]
 
-Pizza Sales Analysis Report Using Power BI and SQL
+**Pizza Sales Analysis Report Using Power BI and SQL**
 
 Analyzed pizza sales data to identify trends, optimize sales strategies, and enhance decision-making.
 Utilized SQL for data extraction and querying, and Power BI for data visualization and dashboard development.
@@ -51,5 +51,5 @@ Developed interactive dashboards to visualize sales performance, customer prefer
 Identified peak sales periods, top-selling products, and customer demographics, providing actionable recommendations for inventory management and marketing strategies.
 Enhanced data-driven decision-making with interactive Power BI dashboards.
 
-Thank you
+**Thank you**
 
