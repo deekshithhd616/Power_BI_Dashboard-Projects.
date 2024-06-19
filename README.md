@@ -37,7 +37,7 @@ Power BI
 
 **Analytical Thinking & Problem-Solving**
 
-7. **Link to Project **
+7. **Link to Project** 
 
 Link to Project: [Power_BI_Dashboard-Projects]
 
